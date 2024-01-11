@@ -24,4 +24,5 @@ I graduated from Gazi University as an Electrical-Electronics Engineer in 2022 a
 ---
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesutcalim&hide=python&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Mesut's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesutcalim&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
