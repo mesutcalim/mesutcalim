@@ -26,6 +26,7 @@ I graduated from Gazi University as an Electrical-Electronics Engineer in 2022 a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql Logo" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql Logo" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html-original.svg" alt="Html Logo" width="50" height="50" />
 ---
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesutcalim&hide=python&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
