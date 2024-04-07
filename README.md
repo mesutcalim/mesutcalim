@@ -20,7 +20,6 @@ I graduated from Gazi University as an Electrical-Electronics Engineer in 2022 a
 
 🧰 Toolbox
 <br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" alt="IntelliJ Logo" width="50" height="50" />
